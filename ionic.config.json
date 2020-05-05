@@ -1,7 +1,8 @@
 {
   "name": "medical",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
